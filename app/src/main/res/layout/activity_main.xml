@@ -20,6 +20,7 @@
         android:id="@+id/realtimebutton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="10dp"
         android:text="Realtime Detection"/>
     <!--<org.opencv.android.JavaCameraView-->
         <!--android:layout_width="match_parent"-->
